@@ -171,19 +171,16 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" width="48" height="48" /><br>
-      <strong>📱 Mobile-First</strong><br>
+    <td align="center" width="34%">
+      <strong>📱 Mobile-First Design</strong><br>
       <sub>Native performance</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn-icons-png.flaticon.com/512/1006/1006555.png" width="48" height="48" /><br>
-      <strong>🔒 Security by Design</strong><br>
+      <strong>🔒 Secured By Design</strong><br>
       <sub>Audit experience</sub>
     </td>
     <td align="center" width="33%">
-      <span style="font-size: 38px;">⛽️</span><br>
-      <strong>💰 Gas Optimized</strong><br>
+      <strong>⛽️ Gas Optimized</strong><br>
       <sub>Cost efficient</sub>
     </td>
   </tr>
@@ -194,23 +191,19 @@
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/512/1006/1006555.png" width="48" height="48" /><br>
       <strong>🔒 Security Expertise</strong><br>
-      <sub>Certified Smart Contract Auditor with real findings</sub>
+      <sub>Certified Smart Contract Auditor</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" width="48" height="48" /><br>
       <strong>🛡️ OpenZeppelin Contributor</strong><br>
       <sub>Industry-standard security practices</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="48" height="48" /><br>
       <strong>🏅 Competition Experience</strong><br>
-      <sub>Active in Sherlock, Cantina, Code4rena</sub>
+      <sub>Actively participated on Sherlock, Cantina, Code4rena</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://cdn-icons-png.flaticon.com/512/595/595067.png" width="48" height="48" /><br>
-      <strong>🎆 Proven Track Record</strong><br>
+      <strong>🛡️Proven Track Record</strong><br>
       <sub>4+ years successful freelancing</sub>
     </td>
   </tr>
@@ -218,7 +211,7 @@
 
 ---
 
-<h2 align="center">🤝 **Let's Build the Future**</h2>
+<h2 align="center">🤝 Let's Build the Future</h2>
 
 <div align="center">
   <h3>Ready to bring your Web3 vision to life?</h3>
@@ -231,7 +224,7 @@
       <td align="center">
         <a href="mailto:m-waqas171288@gmail.com">
           <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="24" height="24" />
-          <br><strong>Gmail</strong>
+          <br><strong style="color: #dc2626;">Gmail</strong>
         </a>
       </td>
       <td align="center">
@@ -242,28 +235,28 @@
       </td>
       <td align="center">
         <a href="https://x.com/Waqas171288">
-          <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="24" height="24" />
-          <br><strong>Twitter</strong>
+          <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="24" height="24" />
+          <br><strong>X</strong>
         </a>
       </td>
-      <td align="center">
+      <!-- <td align="center" bgcolor="white">
         <a href="https://upwork.com/">
-          <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" width="24" height="24" />
+          <img src="https://cdn-icons-png.flaticon.com/512/15527/15527363.png" width="24" height="24" />
           <br><strong>Upwork</strong>
         </a>
       </td>
       <td align="center">
         <a href="https://www.fiverr.com/">
-          <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="24" height="24" />
+          <img src="https://cdn-icons-png.flaticon.com/512/732/732047.png" width="24" height="24" />
           <br><strong>Fiverr</strong>
         </a>
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
 
 <div align="center">
-<i style="color: #64748b;">"Building tomorrow's decentralized global future."</i>
+<i style="color: #64748b;">"Building tomorrow's decentralized global future"</i>
 </div>
 
 <!-- Footer Wave -->
@@ -273,6 +266,6 @@
 
 <!-- Animated Footer Message -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+connect+and+build+amazing+things!;Happy+Coding!+🚀" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+connect+and+build+amazing+things!;" alt="Footer Typing SVG" />
 </div>
 
