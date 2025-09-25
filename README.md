@@ -192,19 +192,19 @@
   <tr>
     <td align="center" width="25%">
       <strong>🔒 Security Expertise</strong><br>
-      <sub>Certified Smart Contract Auditor</sub>
+      <sub>Certified Smart Contract<br>Auditor</sub>
     </td>
     <td align="center" width="25%">
       <strong>🛡️ OpenZeppelin Contributor</strong><br>
-      <sub>Industry-standard security practices</sub>
+      <sub>Industry-standard security<br>practices</sub>
     </td>
     <td align="center" width="25%">
       <strong>🏅 Competition Experience</strong><br>
-      <sub>Actively participated on Sherlock, Cantina, Code4rena</sub>
+      <sub>Actively participated on<br>Sherlock, Cantina, Code4rena</sub>
     </td>
     <td align="center" width="25%">
-      <strong>🛡️Proven Track Record</strong><br>
-      <sub>4+ years successful freelancing</sub>
+      <strong>🛡️ Proven Track Record</strong><br>
+      <sub>4+ years successful<br>freelancing</sub>
     </td>
   </tr>
 </table>
@@ -268,4 +268,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+connect+and+build+amazing+things!;" alt="Footer Typing SVG" />
 </div>
-
