@@ -36,7 +36,7 @@
   <!-- Row 1: Image Left, Text Right -->
   <tr>
     <td align="right" width="20%">
-      <img src="./assets/smart_contracts_development.jpg" width="395.48" height="238.05" />
+      <img src="./assets/smart_contracts_development.png" width="395.48" height="238.05" />
     </td>
     <td align="left" width="30%">
       <h3>Smart Contracts Development</h3>
@@ -51,14 +51,14 @@
       <p>Professional security reviews with vulnerability detection and detailed remediation reports.</p>
     </td>
     <td align="left" width="20%">
-      <img src="./assets/smart_contract_auditing.jpg" width="395.48" height="238.05" />
+      <img src="./assets/smart_contract_auditing.png" width="395.48" height="238.05" />
     </td>
   </tr>
 
   <!-- Row 3: Image Left, Text Right -->
   <tr>
     <td align="right" width="20%">
-      <img src="./assets/post_deployment_onchain_monitoring.jpg" width="395.48" height="238.05" />
+      <img src="./assets/post_deployment_onchain_monitoring.png" width="395.48" height="238.05" />
     </td>
     <td align="left" width="30%">
       <h3>Post-deployment On-chain Monitoring</h3>
@@ -73,14 +73,14 @@
       <p>High-performance Rust and Node.js APIs with REST/GraphQL endpoints and database optimization.</p>
     </td>
     <td align="left" width="20%">
-      <img src="./assets/web_application_backend.jpg" width="395.48" height="238.05" />
+      <img src="./assets/web_application_backend.png" width="395.48" height="238.05" />
     </td>
   </tr>
 
   <!-- Row 5: Image Left, Text Right -->
   <tr>
     <td align="right" width="20%">
-      <img src="./assets/web_application_frontend.jpg" width="395.48" height="238.05" />
+      <img src="./assets/web_application_frontend.png" width="395.48" height="238.05" />
     </td>
     <td align="left" width="30%">
       <h3>Web Frontend</h3>
@@ -95,7 +95,7 @@
       <p>Native iOS (Swift), Android (Kotlin), and cross-platform React Native apps with seamless Web3 integration.</p>
     </td>
     <td align="left" width="20%">
-      <img src="./assets/mobile_app_development.jpg" width="395.48" height="238.05" />
+      <img src="./assets/mobile_app_development.png" width="395.48" height="238.05" />
     </td>
   </tr>
 </table>
@@ -110,7 +110,7 @@
   <!-- Row 1: Image Left, Text Right -->
   <tr>
     <td align="right" width="20%">
-      <img src="./assets/documentation.jpg" width="395.48" height="238.05" />
+      <img src="./assets/documentation.png" width="395.48" height="238.05" />
     </td>
     <td align="left" width="30%">
       <h3>Documentation</h3>
@@ -125,14 +125,14 @@
       <p>100% test coverage with unit, integration, and end-to-end testing for robust applications.</p>
     </td>
     <td align="left" width="20%">
-      <img src="./assets/test_driven_development.jpg" width="395.48" height="238.05" />
+      <img src="./assets/test_driven_development.png" width="395.48" height="238.05" />
     </td>
   </tr>
 
   <!-- Row 3: Image Left, Text Right -->
   <tr>
     <td align="right" width="20%">
-      <img src="./assets/staging.jpg" width="395.48" height="238.05" />
+      <img src="./assets/staging.png" width="395.48" height="238.05" />
     </td>
     <td align="left" width="30%">
       <h3>Staging</h3>
@@ -147,14 +147,14 @@
       <p>Comprehensive UATs with stakeholder feedback integration and requirement validation.</p>
     </td>
     <td align="left" width="20%">
-      <img src="./assets/UATs.jpg" width="395.48" height="238.05" />
+      <img src="./assets/UATs.png" width="395.48" height="238.05" />
     </td>
   </tr>
 
   <!-- Row 5: Image Left, Text Right -->
   <tr>
     <td align="right" width="20%">
-      <img src="./assets/production.jpg" width="395.48" height="238.05" />
+      <img src="./assets/production.png" width="395.48" height="238.05" />
     </td>
     <td align="left" width="30%">
       <h3>Production</h3>
