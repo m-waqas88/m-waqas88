@@ -30,6 +30,81 @@
 
 <div>
 
+<h2 align="center">💼 CAREER HIGHLIGHTS</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ Full-Stack EVM Blockchain Development</h3>
+      <ul>
+        <li><strong>DEX Development:</strong> Forked and customized PancakeSwap</li>
+        <li><strong>Custom Blockchain:</strong> Deployed using GETH on AWS EC2 & Digital Ocean</li>
+        <li><strong>Node Infrastructure:</strong> Created and connected bootnode and client nodes</li>
+        <li><strong>Block Explorer:</strong> Built from scratch for custom blockchain</li>
+        <li><strong>Decentralized Wallet:</strong> Developed using EthersJs</li>
+        <li><strong>ENS-like Protocol:</strong> Registry and resolver smart contracts from scratch</li>
+        <li><strong>Web3 Browser:</strong> Forked Chromium-based browser with IPFS integration for Web3 domains</li>
+        <li><strong>Token Economics:</strong> ERC20 token with prelaunch/airdrop/postlaunch/locking & vesting mechanisms</li>
+        <li><strong>Documentation:</strong> Authored whitepaper and tokenomics documents</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 Smart Contract Security Auditing</h3>
+      <ul>
+        <li><strong>Scale:</strong> 60+ codebases audited, 200k+ lines of code reviewed</li>
+        <li><strong>Competition Platforms:</strong>
+          <ul>
+            <li>Code4rena: 7 protocols</li>
+            <li>Cantina: 8 protocols</li>
+            <li>CodeHawks: 6 protocols</li>
+            <li>Sherlock: 25 protocols</li>
+            <li>Immunefi: 1 protocol</li>
+          </ul>
+        </li>
+        <li><strong>Protocol Expertise:</strong> Uniswap V2, LayerZero V2, Stargate Finance V2, Compound, Aave, Balancer</li>
+        <li><strong>Publicly Confirmed Findings:</strong>
+          <ul>
+            <li>🔴 High Severity: 4</li>
+            <li>🟠 Medium Severity: 6</li>
+            <li>🟡 Low Severity: 1</li>
+          </ul>
+        </li>
+        <li><strong>Research:</strong> Extensive whitepaper analysis, PoC development, on-chain debugging</li>
+        <li><strong>Domain Mastery:</strong> Deep understanding of DeFi landscape and protocol mechanics</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <h1>60+</h1>
+        <sub>Protocols Audited</sub>
+      </td>
+      <td align="center" width="25%">
+        <h1>200K+</h1>
+        <sub>Lines of Code Reviewed</sub>
+      </td>
+      <td align="center" width="25%">
+        <h1>11</h1>
+        <sub>Confirmed Vulnerabilities</sub>
+      </td>
+      <td align="center" width="25%">
+        <h1>47</h1>
+        <sub>Security Competitions</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+</div>
+
+<br>
+
+<div>
+
 <h2 align="center">WHAT I OFFER</h2>
 
 <table align="center" width="100%">
